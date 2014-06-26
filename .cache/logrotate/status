@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/cindy/.cache/upstart/indicator-bluetooth.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/unity7.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/update-notifier-release.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/unity-panel-service.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/unity-settings-daemon.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/indicator-printers.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/dbus.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/indicator-power.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/at-spi2-registryd.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/gnome-session-Unity.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/indicator-sound.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/window-stack-bridge.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/unity-panel-service-lockscreen.log" 2014-6-25-8:7:0
+"/home/cindy/.cache/upstart/indicator-session.log" 2014-6-25-18:13:29
+"/home/cindy/.cache/upstart/hud.log" 2014-6-25-20:8:10
+"/home/cindy/.cache/upstart/im-config.log" 2014-6-25-20:8:10

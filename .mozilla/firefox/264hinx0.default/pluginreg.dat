@@ -1,0 +1,88 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.16:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+librhythmbox-itms-detection-plugin.so:$
+/usr/lib/mozilla/plugins/librhythmbox-itms-detection-plugin.so:$
+:$
+1396551406000:0:0:$
+This plug-in detects the presence of iTunes when opening iTunes Store URLs in a web page with Firefox.:$
+iTunes Application Detector:$
+1
+0:application/itunes-plugin:::$
+libtotem-mully-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-mully-plugin.so:$
+:$
+1396359855000:0:0:$
+DivX Web Player version 1.4.0.233:$
+DivX® Web Player:$
+1
+0:video/divx:vídeo AVI:divx:$
+libtotem-cone-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-cone-plugin.so:$
+:$
+1396359855000:0:0:$
+The <a href="http://www.gnome.org/">Videos</a> 3.10.1 plugin handles video and audio streams.:$
+VLC Multimedia Plugin (compatible Videos 3.10.1):$
+23
+0:application/x-vlc-plugin:VLC Multimedia Plugin::$
+1:application/vlc:VLC Multimedia Plugin::$
+2:video/x-google-vlc-plugin:VLC Multimedia Plugin::$
+3:application/x-ogg:archivo multimedia Ogg:ogg:$
+4:application/ogg:archivo multimedia Ogg:ogg:$
+5:audio/ogg:sonido Ogg:oga:$
+6:audio/x-ogg:sonido Ogg:ogg:$
+7:audio/x-vorbis+ogg:sonido Ogg Vorbis:ogg:$
+8:video/ogg:vídeo Ogg:ogv:$
+9:video/x-ogg:vídeo Ogg:ogg:$
+10:video/x-theora+ogg:vídeo Ogg Theora:ogg:$
+11:application/annodex:formato de intercambio Annodex:anx:$
+12:audio/annodex:sonido Annodex:axa:$
+13:video/annodex:vídeo Annodex:axv:$
+14:video/mpeg:vídeo MPEG:mpg, mpeg, mpe:$
+15:audio/wav:sonido WAV:wav:$
+16:audio/x-wav:sonido WAV:wav:$
+17:audio/mpeg:sonido MP3:mp3:$
+18:application/x-nsv-vp3-mp3:vídeo NullSoft:nsv:$
+19:video/flv:vídeo Flash:flv:$
+20:video/webm:vídeo WebM:webm:$
+21:application/x-totem-plugin:Videos multimedia plugin::$
+22:audio/midi:sonido MIDI:mid, midi:$
+libtotem-gmp-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-gmp-plugin.so:$
+:$
+1396359855000:0:0:$
+The <a href="http://www.gnome.org/">Videos</a> 3.10.1 plugin handles video and audio streams.:$
+Windows Media Player Plug-in 10 (compatible; Videos):$
+13
+0:application/x-mplayer2:vídeo AVI:avi, wma, wmv:$
+1:video/x-ms-asf-plugin:vídeo ASF:asf, wmv:$
+2:video/x-msvideo:vídeo AVI:asf, wmv:$
+3:video/x-ms-asf:vídeo ASF:asf:$
+4:video/x-ms-wmv:vídeo de Windows Media:wmv:$
+5:video/x-wmv:vídeo de Windows Media:wmv:$
+6:video/x-ms-wvx:vídeo de Windows Media:wmv:$
+7:video/x-ms-wm:vídeo de Windows Media:wmv:$
+8:video/x-ms-wmp:vídeo de Windows Media:wmv:$
+9:application/x-ms-wms:vídeo de Windows Media:wms:$
+10:application/x-ms-wmp:vídeo de Windows Media:wmp:$
+11:application/asx:lista de reproducción ASX de Microsoft:asx:$
+12:audio/x-ms-wma:sonido de Windows Media:wma:$
+libtotem-narrowspace-plugin.so:$
+/usr/lib/mozilla/plugins/libtotem-narrowspace-plugin.so:$
+:$
+1396359855000:0:0:$
+The <a href="http://www.gnome.org/">Videos</a> 3.10.1 plugin handles video and audio streams.:$
+QuickTime Plug-in 7.6.6:$
+6
+0:video/quicktime:vídeo QuickTime:mov:$
+1:video/mp4:vídeo MPEG-4:mp4:$
+2:image/x-macpaint:imagen en mapa de bits de MacPaint:pntg:$
+3:image/x-quicktime:dibujo de Macintosh Quickdraw/PICT:pict, pict1, pict2:$
+4:video/x-m4v:vídeo MPEG-4:m4v:$
+5:application/vnd.apple.mpegurl:lista de reproducción de flujo en directo HTTP:m3u8:$
+
+[INVALID]

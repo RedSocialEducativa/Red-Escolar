@@ -1,0 +1,264 @@
+Activating service name='com.canonical.Unity.Scope.Home'
+Successfully activated service 'com.canonical.Unity.Scope.Home'
+
+(unity-scope-home:2363): unity-scope-home-WARNING **: platform-info.vala:112: Unable to read SIM properties: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Activating service name='com.canonical.Unity.Scope.Applications'
+Activating service name='com.canonical.Unity.Scope.LocalFiles'
+Activating service name='com.canonical.Unity.Scope.File.Gdrive'
+
+(process:2379): unity-files-daemon-WARNING **: folder.vala:65: Failed to read favorites: Falló al abrir el archivo «/home/cindy/.gtk-bookmarks»: No existe el archivo o el directorio
+Successfully activated service 'com.canonical.Unity.Scope.LocalFiles'
+Activating service name='com.canonical.Unity.Scope.Music'
+Successfully activated service 'com.canonical.Unity.Scope.File.Gdrive'
+Successfully activated service 'com.canonical.Unity.Scope.Music'
+
+(unity-music-daemon:2397): unity-music-daemon-WARNING **: rhythmbox-collection.vala:510: Unable to open album-art DB!
+
+(unity-music-daemon:2397): unity-music-daemon-WARNING **: rhythmbox-collection.vala:574: Error while parsing rhythmbox DB: Error al abrir el archivo: No existe el archivo o el directorio
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+Successfully activated service 'com.canonical.Unity.Scope.Applications'
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+** (zeitgeist-fts:2272): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+Activating service name='com.canonical.Unity.Scope.Academic.Zotero'
+Successfully activated service 'com.canonical.Unity.Scope.Academic.Zotero'
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+Activating service name='com.canonical.Unity.Webapps.Service'
+Successfully activated service 'com.canonical.Unity.Webapps.Service'
+** Message: Investigating webapp: unity-webapps-common 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-doc 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-examples 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-service 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-amazoncloudreader 
+
+** Message: Investigating webapp: unity-webapps-bbcnews 
+
+** Message: Investigating webapp: unity-webapps-cnn-news 
+
+** Message: Investigating webapp: unity-webapps-deezer 
+
+** Message: Investigating webapp: unity-webapps-dev 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-deviantart 
+
+** Message: Investigating webapp: unity-webapps-facebookmessenger 
+
+** Message: Investigating webapp: unity-webapps-gmail 
+
+** Message: Investigating webapp: unity-webapps-googlecalendar 
+
+** Message: Investigating webapp: unity-webapps-googledocs 
+
+** Message: Investigating webapp: unity-webapps-googlenews 
+
+** Message: Investigating webapp: unity-webapps-googleplusgames 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-grooveshark 
+
+** Message: Investigating webapp: unity-webapps-hulu-player 
+
+** Message: Investigating webapp: unity-webapps-lastfm-radio 
+
+** Message: Investigating webapp: unity-webapps-launchpad 
+
+** Message: Investigating webapp: unity-webapps-librefm 
+
+** Message: Investigating webapp: unity-webapps-linkedin 
+
+** Message: Investigating webapp: unity-webapps-mail-ru 
+
+** Message: Investigating webapp: unity-webapps-newsblur 
+
+** Message: Investigating webapp: unity-webapps-pandora 
+
+** Message: Investigating webapp: unity-webapps-pandora-com 
+
+** Message: Investigating webapp: unity-webapps-qml-autopilot 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qq-mail 
+
+** Message: Investigating webapp: unity-webapps-reddit 
+
+** Message: Investigating webapp: unity-webapps-tumblr 
+
+** Message: Investigating webapp: unity-webapps-twitter 
+
+** Message: Investigating webapp: unity-webapps-vkcom 
+
+** Message: Investigating webapp: unity-webapps-wordpress 
+
+** Message: Investigating webapp: unity-webapps-wordpress-com 
+
+** Message: Investigating webapp: unity-webapps-yahoonews 
+
+** Message: Investigating webapp: unity-webapps-yandex-music 
+
+** Message: Investigating webapp: unity-webapps-yandexmail 
+
+** Message: Investigating webapp: unity-webapps-yandexmusic 
+
+** Message: Investigating webapp: unity-webapps-yandexnews 
+
+** Message: Investigating webapp: unity-webapps-qml 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-qml-examples 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-service 
+
+
+** (process:2836): WARNING **: Found newline before all of metadata, skipping app
+** Message: Investigating webapp: unity-webapps-googleplus 
+
+** Message: Investigating webapp: unity-webapps-livemail 
+
+** Message: Investigating webapp: unity-webapps-yahoomail 
+
+** Message: Investigating webapp: unity-webapps-youtube 
+
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+Activating service name='com.canonical.Unity.Scope.Academic.Zotero'
+Successfully activated service 'com.canonical.Unity.Scope.Academic.Zotero'
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed
+
+(unity-scope-home:2363): Json-CRITICAL **: json_object_get_object_member: assertion 'node != NULL' failed

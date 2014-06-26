@@ -1,0 +1,80 @@
+WARN  2014-06-25 20:08:55 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: No se puede abrir el directorio
+
+(gnome-terminal:2468): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+Adding service 'cindy-VirtualBox'
+
+(eog:2284): EOG-WARNING **: No se ha podido abrir el archivo «/home/cindy/.cache/thumbnails/normal/fa63e4ac4b076bf4e42057d9623c6f94.png»: No existe el archivo o el directorio
+
+(eog:2284): EOG-WARNING **: No se ha podido abrir el archivo «/home/cindy/.cache/thumbnails/normal/55ebb11c977daa4d68dc836a8f85c011.png»: No existe el archivo o el directorio
+ERROR 2014-06-25 20:19:00 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2014-06-25 20:34:21 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2014-06-25 20:34:21 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2014-06-25 20:34:21 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(process:2814): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+ERROR 2014-06-25 20:58:31 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2014-06-25 20:58:31 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2014-06-25 20:58:31 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2014-06-25 21:09:33 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2014-06-25 21:09:33 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:36 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:37 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2014-06-25 21:09:38 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+
+** (gnome-terminal:3188): WARNING **: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+
+(gnome-terminal:3188): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.

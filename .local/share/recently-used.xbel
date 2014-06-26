@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/cindy/Descargas/Cindii.rar" added="2014-06-25T23:13:57Z" modified="2014-06-25T23:14:49Z" visited="2014-06-25T23:13:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2014-06-25T23:13:57Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2014-06-25T23:14:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cindy/Im%C3%A1genes/Captura%20de%20pantalla%20de%202014-06-25%2018%3A37%3A02.png" added="2014-06-25T23:39:52Z" modified="2014-06-25T23:39:52Z" visited="2014-06-25T23:39:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-06-25T23:39:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cindy/Im%C3%A1genes/Captura%20de%20pantalla%20de%202014-06-25%2018%3A40%3A03.png" added="2014-06-25T23:40:07Z" modified="2014-06-25T23:40:07Z" visited="2014-06-25T23:40:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-06-25T23:40:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cindy/Im%C3%A1genes/Captura%20de%20pantalla%20de%202014-06-25%2018%3A40%3A16.png" added="2014-06-25T23:40:21Z" modified="2014-06-25T23:40:21Z" visited="2014-06-25T23:40:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2014-06-25T23:40:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cindy/Im%C3%A1genes/Captura%20de%20pantalla%20de%202014-06-25%2018:37:02.png" added="2014-06-26T01:07:36Z" modified="2014-06-26T01:12:09Z" visited="2014-06-26T01:07:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2014-06-26T01:07:36Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-06-26T01:12:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cindy/Im%C3%A1genes/Captura%20de%20pantalla%20de%202014-06-25%2018:40:03.png" added="2014-06-26T01:12:01Z" modified="2014-06-26T01:13:00Z" visited="2014-06-26T01:12:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-06-26T01:13:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/cindy/Im%C3%A1genes/Captura%20de%20pantalla%20de%202014-06-25%2018:40:16.png" added="2014-06-26T01:12:07Z" modified="2014-06-26T01:13:07Z" visited="2014-06-26T01:12:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2014-06-26T01:13:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///var/www/html/calificaciones/index.php" added="2014-06-26T01:16:42Z" modified="2014-06-26T01:16:44Z" visited="2014-06-26T01:16:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2014-06-26T01:16:42Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2014-06-26T01:16:44Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
