@@ -30,8 +30,8 @@ header {width:960px;height: 130px; position:relative; margin: 0px auto;}
 
 header #logo {position:absolute; top:90px; left: 0px; width: 100%;}
 
-header #search {position: absolute;top: 450px;left: 350px;	width: 208px;z-index: 15;}
-header #search1 {position: absolute;top: 450px;left: 350px;	width: 208px;z-index: 15;}
+header #search {position: absolute;top: 200px;left: 200px;	width: 208px;z-index: 15;}
+header #search1 {position: absolute;top: 350px;left: 200px;	width: 208px;z-index: 15;}
 header .button-search {	position: absolute;	left: 0px;	background-color:#000 center center no-repeat;padding: 1px 1px 1px 33px;	width: 128px;	height: 24px;border: 2px solid #000;	-webkit-border-radius: 3px 3px 3px 3px;	-moz-border-radius: 3px 3px 3px 3px;	-khtml-border-radius: 3px 3px 3px 3px;	border-radius: 3px 3px 3px 3px;}
 }
 
@@ -58,9 +58,9 @@ nav ul li:hover a{color:#ffffff;}
 		color:black;	line-height: 14px;	font-family: Arial, Helvetica, sans-serif;	font-size: 14px;	font-weight: bold;	-webkit-border-radius: 4px;-moz-border-radius: 4px;-khtml-border-radius: 4px;border-radius: 4px;
 }
 /*-------------content */
-#content {width:160px;top:0px; right: 0px;}
+#content {width:160px;top:1620px; right: 230px;}
 
-#main-content{width:600px;float: left; display: inline; padding:20px;}
+#main-content{width:600px;float: center; display: inline; padding:20px;}
 #main-content article{ clear: both; font-size:14px; margin:10px 0px;}
 #main-content article .heading h2{}
 #main-content article h2{font-size:18px; line-height:25px;}
