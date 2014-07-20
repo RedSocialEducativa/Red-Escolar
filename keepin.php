@@ -2,7 +2,7 @@
 <?php include('metadatos.php');?>
 <body>
 	<div class="clear"></div>
-		<?php include('header_keepin.php');?>		
+		<?php include('formulario_inicio.php');?>		
 	<div class="clear"></div>	
 	</div>
 </body>
