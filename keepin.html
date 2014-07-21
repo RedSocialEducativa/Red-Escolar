@@ -34,18 +34,28 @@
   
 </head>
 <body>
-<!--------------Header--------------->
+	<!--------------Header--------------->
 <header> 
+	
 	<div id="logo"><a href="#"><img src="./images/keepin.png"/></a></div>
-	
-		<div id="search">
-	 	<div class="letras">Usuario</div>
-	 	<label></label><input type = "text" id = "myText" value = "text here" /></label>
-   	<div class="letras">Password</div>
-      <label></label><input type = "password" id = "myPwd" value = "secret" /></label>
-		<div class="button-search"><a href="index.html">Iniciar Sesion</a></div>
-	
-     	</div>
+
+	<div id="search">
+		<form action ="index.html" method = "post">
+			<fieldset>
+				<label> Usuario</label>
+				<input type = "text" name = "userName" />
+
+				<label> Contrase&ntildea</label>
+				<input type = "text" name = "password" />
+
+				<button type = "submit"> Iniciar Sesion </button>
+			</fieldset>
+		</form>
+
+		<form action ="registro.html" method = "post">
+			<button type = "submit"> Registrarse </button>
+		</form>
+	</div>
 	
 </header>
 </body></html>
