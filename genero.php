@@ -2,7 +2,6 @@
 include ('conectar.php');	
 class genero {
 	
-   private $servidor='localhost';
    private $genero = "genero";
    private $id = "id";
    private $base_datos='testDB';
