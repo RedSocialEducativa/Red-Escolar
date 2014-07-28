@@ -7,61 +7,48 @@ echo <<< HERE
      
       <div class="row">
         <div class="col-sm-8">
-        	<p>Buzon de Mensaje</p>
+        	<p>Amigos</p>
 			<div class="well">
-	        	<p><img src="images/port3.jpg"/ align="left"> <br> Compañera me podrias ayudar con el deber de matematica </p>
-	        	<br>
-	       		
-	       		<form class="form-signin" role="form">
-			        Responder
-			        <input type="textarea" class="form-control" >
-			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
-			     </form>
+	        	<p><img src="images/port3.jpg"/ align="left"> <br> Maria Mejia 
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>    		
 	       	</div>
 
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
+	       	<div class="well">
+	       		<p><img src="images/port2.jpg"/ align="left"> <br> Estefano Garcia 
+	       		<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>
 
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
+	        <div class="well">
+	        	<p><img src="images/port1.jpg"/ align="left"> <br> Carla Zambrano
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>
 
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
+	        <div class="well">
+	        	<p><img src="images/port3.jpg"/ align="left"> <br> Maria Mejia 
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>	
+	       		
+	       	<div class="well">
+	       		<p><img src="images/port2.jpg"/ align="left"> <br> Estefano Garcia 
+	       		<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>
 
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
-	       	<br>
+	        <div class="well">
+	        	<p><img src="images/port1.jpg"/ align="left"> <br> Carla Zambrano
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>
+
+
+
+
+
+
 	</div>
 
 	<!--CHAT-->

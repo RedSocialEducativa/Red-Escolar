@@ -6,7 +6,7 @@
 	<div class="clear"></div>
 		<?php include('navegacion.php');?>
 	<div class="clear"></div>
-		<?php include('section_single.php');?>				
+		<?php include('section_contacto.php');?>			
 	</div>
 </body>
 </html>
