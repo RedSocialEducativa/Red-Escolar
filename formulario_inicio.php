@@ -3,10 +3,11 @@ echo <<< HERE
 
 <header>
 
-	<div id="logo"><a href="#"><img src="./images/keepin.png"/></a></div>
+	
 
 	<div id="search">
-		<form action ="index.php" method = "post">
+		<img src="./images/keepin.png"/>
+		<form action ="inicio.php" method = "post">
 			<fieldset>
 				<label> Usuario</label>
 				<input type = "text" name = "userName" />
