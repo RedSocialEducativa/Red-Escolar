@@ -3,10 +3,9 @@ echo <<< HERE
 
 <header>
 
-	<div id="logo"><a href="#"><img src="./images/keepin.png"/></a></div>
-
 	<div id="search">
-		<form action ="index.php" method = "post">
+		<img src="./images/keepin.png"/>
+		<form action ="inicio.php" method = "post">
 			<fieldset>
 				<label> Correo Electronico</label>
 				<input type = "text" name = "correo" />
@@ -21,7 +20,7 @@ echo <<< HERE
 			</fieldset>
 		</form>
 
-		<form action ="keepin.php" method = "post">
+		<form action ="index.php" method = "post">
 			<button type = "submit"> Tengo una cuenta, Iniciar Sesion </button>
 		</form>
 	</div>

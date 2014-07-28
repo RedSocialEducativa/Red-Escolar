@@ -1,52 +1,57 @@
- <?php
+<?php
 echo <<< HERE
-
-<div class="container theme-showcase" role="main">
+	<div class="container theme-showcase" role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
      
       <div class="row">
         <div class="col-sm-8">
-        	<p>Buzon de Mensaje</p>
+        	<p>Amigos</p>
 			<div class="well">
-	        	<p><img src="images/port3.jpg"/ align="left"> <br> Compañera me podrias ayudar con el deber de matematica </p>
-	        	<br>
-	       		
-	       		<form class="form-signin" role="form">
-			        Responder
-			        <input type="textarea" class="form-control" >
-			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
-			     </form>
+	        	<p><img src="images/port3.jpg"/ align="left"> <br> Maria Mejia 
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>    		
 	       	</div>
 
 	       	<div class="well">
-	        	<p><img src="images/port2.jpg"/ align="left"> <br> Necesito el informe de la clase anterior </p>
+	       		<p><img src="images/port2.jpg"/ align="left"> <br> Estefano Garcia 
+	       		<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
 	        	<br>
-	       		
-	       		<form class="form-signin" role="form">
-			        Responder
-			        <input type="textarea" class="form-control" >
-			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
-			        
-			     </form>
-	       	</div>
+	        </div>
 
-	       		<div class="well">
-	        	<p><img src="images/port1.jpg"/ align="left"> Para la proxima semana prestame el cuaderno de sociales para ponerme al dia 
-	        														 porque la profesora dijo que lo revisaria en fin de mes</p>
+	        <div class="well">
+	        	<p><img src="images/port1.jpg"/ align="left"> <br> Carla Zambrano
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
 	        	<br>
+	        </div>
+
+	        <div class="well">
+	        	<p><img src="images/port3.jpg"/ align="left"> <br> Maria Mejia 
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>	
 	       		
-	       		<form class="form-signin" role="form">
-			        Responder
-			        <input type="textarea" class="form-control" >
-			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
-			        
-			     </form>
-	       	</div>   
+	       	<div class="well">
+	       		<p><img src="images/port2.jpg"/ align="left"> <br> Estefano Garcia 
+	       		<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>
+
+	        <div class="well">
+	        	<p><img src="images/port1.jpg"/ align="left"> <br> Carla Zambrano
+	        	<button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Perfil</button></p>
+	        	<br>
+	        </div>
+
+
+
+
+
+
 	</div>
 
-		<!--CHAT-->
+	<!--CHAT-->
     <div class="col-sm-4">
     <div class="panel panel-primary">
         <div class="panel-heading">
@@ -82,5 +87,6 @@ echo <<< HERE
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/docs.min.js"></script>
+
 HERE;
 ?>

@@ -1,43 +1,105 @@
 <?php
 echo <<< HERE
+	<div class="container theme-showcase" role="main">
 
-<section id="content">
-	<div id="main-content">
-		<article>
-			<div class="heading">
-				<h2>Link de Descarga</h2>
-			</div>
-			<div class="content">
-				<img src="images/port1.jpg"/>
-				<p>En la actualidad existen varias herramientas que ayuden a facilitar la informacion al estudiante, ya que en el internet una encuentra la informacion que desee en cuestion de segundos, por eso es importante tener en cuenta los sitios que nos brindan soluciones rapidas atravez de aplicaciones .</p>
-				<p>4 shared.com  nos permite obtener programas gratis de manera comprimida y muy facil de descargar y usar, sin necesidad de codigos.</p>
-					</div>
-		</article>
-		<article>
-				<div class="comment">
-		Mi Comentario
-				<div><textarea rows="1" name="comment" id="comment"></textarea></div>
-				<div><input type="submit" name="public" value="Publicar"></div>
-		</div>
-		</article>
-			</div>
-	<div id="sidebar">
-			<section>
-			
-	<div class="preview">	
-			<div class="letras"><h2><img src="images/chat1.png"/>Chat</h2></div>
-				<ul id="pagi">
-					<li><a href="perfil.html"><img src="images/persona.png"/>Amigo L</a></li>
-					<li><a href="perfil.html"><img src="images/persona.png"/>Mateo</a></li>
-					<li><a href="perfil.html"><img src="images/persona.png"/>Priscila</a></li>
-					<li><a href="perfil.html"><img src="images/persona.png"/>Enrique</a></li>
-				</ul>
-			</div>
-		</section>
-		
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+     
+      <div class="row">
+        <div class="col-sm-8">
+        	<p>Buzon de Mensaje</p>
+			<div class="well">
+	        	<p><img src="images/port3.jpg"/ align="left"> <br> Compañera me podrias ayudar con el deber de matematica </p>
+	        	<br>
+	       		
+	       		<form class="form-signin" role="form">
+			        Responder
+			        <input type="textarea" class="form-control" >
+			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
+			     </form>
+	       	</div>
+
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
+	       	<br>
 	</div>
-	<div class="clear"></div>
-</section>
+
+	<!--CHAT-->
+    <div class="col-sm-4">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h2 class="panel-title" type="submit" name="chat"><a href="perfil.php">Chat <span class="badge">   10</span></a></h2>
+        </div>
+        <div class="panel-body">
+           
+            <ul >
+	          <li><a href="perfil.php"><img src="images/thumb1.jpg"/>Luis Mendez</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb2.jpg"/>Mateo Vera</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb1.jpg"/>Daniel Calderon</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
+	          <br><ul class="pager">
+	 	         <li><a href="#">Previous</a></li>
+	    	      <li><a href="#">Next</a></li>
+	          </ul>
+       		</ul>
+        </div>
+    </div>
+
+    </div><!-- /.col-sm-4 -->
+    </div>
+
+    </div>
+	</div>
+       
+     
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
 
 HERE;
->?
+?>

@@ -1,5 +1,5 @@
 <html>
-<?php include('metadatos.php');?>
+<?php include('metadato_keepin.php');?>
 <body>
 	<div class="clear"></div>
 		<?php include('formulario_registro.php');?>		

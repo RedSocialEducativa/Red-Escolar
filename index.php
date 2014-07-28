@@ -1,14 +1,9 @@
 <html>
-<?php include('metadatos.php');?>
+<?php include('metadato_keepin.php');?>
 <body>
 	<div class="clear"></div>
-		<?php include('header.php');?>
-	<div class="clear"></div>
-		<?php include('navegacion.php');?>
-	<div class="clear"></div>
-		<?php include('section.php');?>		
-	<div class="clear"></div>
-	<?php include('footer.php');?>	
+		<?php include('formulario_inicio.php');?>		
+	<div class="clear"></div>	
 	</div>
 </body>
 </html>

@@ -6,8 +6,8 @@
 	<div class="clear"></div>
 		<?php include('navegacion.php');?>
 	<div class="clear"></div>
-		<?php include('perfilsection.php');?>		
+		<?php include('section.php');?>		
+		
 	</div>
 </body>
 </html>
-
