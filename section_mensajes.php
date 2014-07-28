@@ -1,94 +1,86 @@
  <?php
 echo <<< HERE
 
-<section id="content">
-	<div id="main-content">
-		<article>
-			<div class="heading">
-				<h2>Link de Descarga</h2>
-			</div>
-			<div class="content">
-				<img src="images/port1.jpg"/>
-				<p>En la actualidad existen varias herramientas que ayuden a facilitar la informacion al estudiante, ya que en el internet una encuentra la informacion que desee en cuestion de segundos, por eso es importante tener en cuenta los sitios que nos brindan soluciones rapidas atravez de aplicaciones .</p>
-				<p>4 shared.com  nos permite obtener programas gratis de manera comprimida y muy facil de descargar y usar, sin necesidad de codigos.</p>
-					</div>
-		</article>
-		<article>
-				<div class="comment">
-		Responder
-				<div><textarea rows="1" name="comment" id="comment"></textarea></div>
-				<div><input type="submit" name="public" value="Enviar"></div>
-		</div>
-		</article>
-			</div>
-<div id="sidebar">
-	
-		<section>
-			<div class="heading"><h2>Mi Buzon</h2></div>
-			<div class="content">
-				<div class="post">
-					<img src="images/thumb2.jpg"/>
-					<h4><a href="single.php">Link de descarga de material didactico</a></h4>
-					<p>Mayo 21 ,2014</p>
-				</div>
-				<div class="post">
-					.
-				</div>
-				<div class="post">
-					<img src="images/thumb1.jpg"/>
-					<h4><a href="single.php">Ayudas a domicilio de matematica</a></h4>
-					<p>Junio 11 ,2014</p>
-				</div>
-					<div class="post">
-					.
-				</div>
-				
-				<div class="post">
-					<img src="images/thumb3.jpg"/>
-					<h4><a href="single.php">Entradas al evento de desarrollo social a la comunidad</a></h4>
-					<p>November 21 ,2013</p>
-				</div>
-				<div class="post">
-					.
-				</div>
-				<div class="post">
-					<img src="images/thumb1.jpg"/>
-					<h4><a href="single.php">Clases de recuperacion de fisica</a></h4>
-					<p>Junio 13 ,2013</p>
-				</div>
-				<div class="post">
-					.
-				</div>
-				<div class="post">
-					<img src="images/thumb2.jpg"/>
-					<h4><a href="single.php">Venta de libro para ayuda benefica</a></h4>
-					<p>Mayo 11 ,2013</p>
-				</div>
-			</div>
-		</section>
-		<section>
-			<ul id="pagi">
-				<li><a class="current" href="#">1</a></li>
-				<li><a href="#">2</a></li>
-				<li><a href="#">3</a></li>
-				<li><a href="#">next</a></li>
-			</ul>
-		</section>	<section ><h4>.</h4></section>
-		<section>
-			
-	<div class="preview">	
-			<div class="letras"><h2><img src="images/chat1.png"/>Chat</h2></div>
-				<ul id="pagi">
-					<li><a href="perfil.php"><img src="images/persona.png"/>Amigo L</a></li>
-					<li><a href="perfil.php"><img src="images/persona.png"/>Mateo</a></li>
-					<li><a href="perfil.php"><img src="images/persona.png"/>Priscila</a></li>
-					<li><a href="perfil.php"><img src="images/persona.png"/>Enrique</a></li>
-				</ul>
-			</div>
-		</section>
-		
+<div class="container theme-showcase" role="main">
+
+      <!-- Main jumbotron for a primary marketing message or call to action -->
+      <div class="jumbotron">
+     
+      <div class="row">
+        <div class="col-sm-8">
+        	<p>Buzon de Mensaje</p>
+			<div class="well">
+	        	<p><img src="images/port3.jpg"/ align="left"> <br> Compañera me podrias ayudar con el deber de matematica </p>
+	        	<br>
+	       		
+	       		<form class="form-signin" role="form">
+			        Responder
+			        <input type="textarea" class="form-control" >
+			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
+			     </form>
+	       	</div>
+
+	       	<div class="well">
+	        	<p><img src="images/port2.jpg"/ align="left"> <br> Necesito el informe de la clase anterior </p>
+	        	<br>
+	       		
+	       		<form class="form-signin" role="form">
+			        Responder
+			        <input type="textarea" class="form-control" >
+			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
+			        
+			     </form>
+	       	</div>
+
+	       		<div class="well">
+	        	<p><img src="images/port1.jpg"/ align="left"> Para la proxima semana prestame el cuaderno de sociales para ponerme al dia 
+	        														 porque la profesora dijo que lo revisaria en fin de mes</p>
+	        	<br>
+	       		
+	       		<form class="form-signin" role="form">
+			        Responder
+			        <input type="textarea" class="form-control" >
+			         <button type="button" class="btn btn-sm btn-primary"  type="submit" name="publicar">Enviar</button>
+			        
+			     </form>
+	       	</div>   
 	</div>
-	<div class="clear"></div>
-</section>
+
+		<!--CHAT-->
+    <div class="col-sm-4">
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h2 class="panel-title" type="submit" name="chat"><a href="perfil.php">Chat <span class="badge">   10</span></a></h2>
+        </div>
+        <div class="panel-body">
+           
+            <ul >
+	          <li><a href="perfil.php"><img src="images/thumb1.jpg"/>Luis Mendez</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb2.jpg"/>Mateo Vera</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb1.jpg"/>Daniel Calderon</a></li>
+	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
+	          <br><ul class="pager">
+	 	         <li><a href="#">Previous</a></li>
+	    	      <li><a href="#">Next</a></li>
+	          </ul>
+       		</ul>
+        </div>
+    </div>
+
+    </div><!-- /.col-sm-4 -->
+    </div>
+
+    </div>
+	</div>
+       
+     
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/docs.min.js"></script>
 HERE;
 ?>
