@@ -36,42 +36,27 @@ echo <<< HERE
         <p><a href="perfil.php">Grupo Matematica</a></p>
         
         <p><img src="images/port1.jpg"/ align="left">  Chicos no se oldiven de traer todos los ejercicios de trigonometria para realizar el respectivo repaso para la leccion.....</p>
-        <ul class="post-data-3">
-                            <li> <a href="#" type="submit" name="comentar">Comentar </a><span class="badge">2</span>
-        
-       </li>
-                            <li><a href="#" type="submit" name="megusta">Me gusta </a><span class="badge">2</span>
-       
-       </li>
-                             </ul></div>
+       <a href="#" type="submit" name="comentar"><img src="iconos/comentar.png"/></a><span class="badge">  2</span> 
+        <a href="#" type="submit" name="megusta"><img src="iconos/like3.png"/></a><span class="badge">  2</span>
+                        </div>
        
         <div class="well">
      
         <p><a href="perfil.php">Maria Mjeia</a></p>
         
         <p><img src="images/port3.jpg"/ align="left">   En el lab 403CB se extravio un pendrive de color amarillo , favor de comunicarme si alguien ha encontrado mi pendrive comunicarse.</p>
-        <ul class="post-data-3">
-                            <li> <a href="#" type="submit" name="comentar">Comentar </a><span class="badge">2</span>
-        
-       </li>
-                            <li><a href="#" type="submit" name="megusta">Me gusta </a><span class="badge">2</span>
-       
-       </li>
-                             </ul></div>
+        <a href="#" type="submit" name="comentar"><img src="iconos/comentar.png"/></a><span class="badge">  2</span> 
+        <a href="#" type="submit" name="megusta"><img src="iconos/like3.png"/></a><span class="badge">  2</span>
+        </div>
        
         <div class="well">
      
         <p><a href="perfil.php">Estefano Garcia</a></p>
         
         <p><img src="images/port2.jpg"/ align="left"> Chicos pilas!! que la proxima clase el profesor resolveras los ejercicios de la ecuaciones trigonometricas para la resolucion del examen.....</p>
-        <ul class="post-data-3">
-                            <li> <a href="#" type="submit" name="comentar">Comentar </a><span class="badge">2</span>
-        
-       </li>
-                            <li><a href="#" type="submit" name="megusta">Me gusta </a><span class="badge">2</span>
-       
-       </li>
-                             </ul></div>
+        <a href="#" type="submit" name="comentar"><img src="iconos/comentar.png"/></a><span class="badge">  2</span> 
+        <a href="#" type="submit" name="megusta"><img src="iconos/like3.png"/></a><span class="badge">  2</span>
+       </div>
        
         </div><!-- /.col-sm-4 -->
         
@@ -82,7 +67,7 @@ echo <<< HERE
           <div class="panel panel-primary">
             <div class="panel-heading">
          
-             <h2 class="panel-title" type="submit" name="chat"><a href="perfil.php">Chat <span class="badge">   10</span></a></h2>
+             <h2 class="panel-title" type="submit" name="chat"><a href="perfil.php"><img src="iconos/chat.png"/>Chat <span class="badge">   10</span></a></h2>
             </div>
             <div class="panel-body">
            
@@ -92,10 +77,7 @@ echo <<< HERE
             <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
             <br><li><a href="perfil.php"><img src="images/thumb1.jpg"/>Daniel Calderon</a></li>
             <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
-            <br><ul class="pager">
-            <li><a href="#">Previous</a></li>
-            <li><a href="#">Next</a></li>
-          </ul>
+            
         </ul>
             </div>
           </div>

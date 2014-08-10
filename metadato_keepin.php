@@ -18,9 +18,9 @@ echo <<< HERE
     
     <!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="css/estilo.css">
-    <link rel="stylesheet" href="css/responsive.css">
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css1/estilo (2).css">
+    <link rel="stylesheet" href="css1/responsive.css">
+	<link rel="stylesheet" href="css1/bootstrap (2).css">
 	
 	<!--[if lt IE 8]>
        <div style=' clear: both; text-align:center; position: relative;'>
@@ -30,8 +30,8 @@ echo <<< HERE
       </div>
     <![endif]-->
     <!--[if lt IE 9]>
-		<script src="js/html5.js"></script>
-		<script src="js/css3-mediaqueries.js"></script>
+		<script src="js1/html5.js"></script>
+		<script src="js1/css3-mediaqueries.js"></script>
 	<![endif]-->
   
 </head>

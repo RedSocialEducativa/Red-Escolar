@@ -21,18 +21,8 @@ echo <<< HERE
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">Actividades <span class="caret"></span></a>
               <ul class="dropdown-menu" role="menu">
                 <li><a href="grupos.php">Grupos</a></li>
-                <li><a href="eventos.php">Eventos</a></li>
                 <li><a href="contactos.php">Contactos</a></li>
                  <li><a href="actividades.php">Mis archivos</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="" class="dropdown-toggle" data-toggle="dropdown">Cuenta<span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="configuracion.php">Configuracion de Cuenta</a></li>
-                <li><a href="editar.php">Editar Perfil</a></li>
-                <li class="divider"></li>
-                <li><a href="index.php">Desactivar Cuenta</a></li>
               </ul>
             </li> 
             <li><a href="notificacion.php">Notificacion</a></li> 
