@@ -14,16 +14,15 @@ echo <<< HERE
       </ul>
          <div class="well">
 
-          <p><img src="PNG/upload.png"/>Subir Archivo  <img src="PNG/folder.png"/>Subir Carpeta</p>
-          
+         <a href="#" type="submit" name="comentar"><img src="iconos/cargar.png"/>Subir Archivos</a>
+        
           <ul >
           <li ><p>-------------------------------------------------------------------------------</p></li>
-        <li ><p><img src="PNG/chart.png"/>Estudios de mercado</p></li>
-        <li><p><img src="PNG/document.png"/>Encuesta</p></li>
-        <li><p><img src="PNG/video.png"/>Tutorial de quimica</p></li>
-         <li ><p><img src="PNG/photo.png"/>Grupo Vocal</p></li>
-        <li><p><img src="PNG/box.png"/>Deber.rar</p></li>
-        <li><p><img src="PNG/music.png"/>Grabacion de clase.mp3</p></li>
+        <li ><p><img src="iconos/documento.png"/>Estudios de mercado</p></li>
+        <li><p><img src="iconos/excel.png"/>Encuesta</p></li>
+         <li ><p><img src="iconos/camera3.png"/>Grupo Vocal</p></li>
+        <li><p><img src="iconos/rar.png"/>Deber.rar</p></li>
+        <li><p><img src="iconos/play43.png"/>Grabacion de clase.mp3</p></li>
       
       </ul>
 
@@ -44,7 +43,7 @@ echo <<< HERE
             <div class="panel-body">
            
               <ul >
-          <li><a href="perfil.php"><img src="images/thumb1.jpg"/>Luis Mendez</a></li>
+          <li><a href="perfil.php"><img src="images/thumb1.jpg"/ align="left"><p>Luis Mendez</p></a></li>
             <br><li><a href="perfil.php"><img src="images/thumb2.jpg"/>Mateo Vera</a></li>
             <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
             <br><li><a href="perfil.php"><img src="images/thumb1.jpg"/>Daniel Calderon</a></li>

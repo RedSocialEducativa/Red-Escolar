@@ -1,6 +1,6 @@
 <?php
 
-	Class Notificaciones{
+	Class Mensaje{
 		private $id;
 		private $descripcion;
 		

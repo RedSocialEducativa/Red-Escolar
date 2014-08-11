@@ -60,10 +60,7 @@ echo <<< HERE
 	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
 	          <br><li><a href="perfil.php"><img src="images/thumb1.jpg"/>Daniel Calderon</a></li>
 	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
-	          <br><ul class="pager">
-	 	         <li><a href="#">Previous</a></li>
-	    	      <li><a href="#">Next</a></li>
-	          </ul>
+	         
        		</ul>
         </div>
     </div>

@@ -68,8 +68,8 @@ echo <<< HERE
     <div class="col-sm-4">
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h2 class="panel-title" type="submit" name="chat"><a href="perfil.php">Chat <span class="badge">   10</span></a></h2>
-        </div>
+         <h2 class="panel-title" type="submit" name="chat"><a href="perfil.php"><img src="iconos/chat.png"/>Chat <span class="badge">   10</span></a></h2>
+            </div>
         <div class="panel-body">
            
             <ul >
@@ -78,10 +78,7 @@ echo <<< HERE
 	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
 	          <br><li><a href="perfil.php"><img src="images/thumb1.jpg"/>Daniel Calderon</a></li>
 	          <br><li><a href="perfil.php"><img src="images/thumb3.jpg"/>Daniel Calderon</a></li>
-	          <br><ul class="pager">
-	 	         <li><a href="#">Previous</a></li>
-	    	      <li><a href="#">Next</a></li>
-	          </ul>
+	         
        		</ul>
         </div>
     </div>
